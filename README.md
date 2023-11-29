@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav</h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
-<img align="right" alt="coding" width="350" src="https://www.bing.com/images/search?view=detailV2&ccid=gReLR6hZ&id=D5D3A27B777DC2D853EBABEAC3FAC8E72B95CBE5&thid=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fthoughtworks-gif_dribbble.gif&exph=600&expw=800&q=front+end+developer+gif%5c&simid=608006914015240452&FORM=IRPRST&ck=1331394B4D30B1C9F37545284E0958D4&selectedIndex=0&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavpatel236&label=Profile%20views&color=0e75b6&style=flat" alt="madhavpatel236" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
